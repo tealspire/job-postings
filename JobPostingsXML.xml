@@ -1,11 +1,9 @@
 <?xml version="1.0" ?>
-<source>
   <job>
     <partnerJobId>apples</partnerJobId>
     <company>Castello Systems</company>
     <title>systems management</title>
-    <description>UPDATE_TWO
-This is a job where you will be working with puppies, rainbows and unicorns. Be prepared for conditions with lots of sunlight and playing. Occupational hazards include: butterflies, bees, tripping on puppies, and rolling down grassy hills.
+    <description>This is a job where you will be working with puppies, rainbows and unicorns. Be prepared for conditions with lots of sunlight and playing. Occupational hazards include: butterflies, bees, tripping on puppies, and rolling down grassy hills.
 Salary Range:
 $10,000,000,000.00/year
 Years of Experience: 5-10</description>
@@ -17,4 +15,3 @@ Years of Experience: 5-10</description>
     <degree_requirements>N/A</degree_requirements>
     <years_experience>5-10</years_experience>
   </job>
-</source>
