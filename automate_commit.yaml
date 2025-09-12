@@ -1,0 +1,38 @@
+name: Auto Commit Updated File
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # Runs every 5 minutes
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  auto-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches full history for accurate diff
+
+      - name: Check for File Changes
+        run: |
+          git diff --name-only HEAD^ HEAD > changed_files.txt
+          if grep -q "path/to/your/file.txt" changed_files.txt; then
+            echo "File has changed, proceeding with commit."
+          else
+            echo "No changes in the specified file."
+            exit 0
+          fi
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+      - name: Commit Changes
+        run: |
+          git add path/to/your/file.txt
+          git commit -m "Auto-commit: Updated file.txt"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
