@@ -1,17 +1,68 @@
 <?xml version="1.0" ?>
+<source>
   <job>
-    <partnerJobId>apples</partnerJobId>
-    <company>Castello Systems</company>
-    <title>systems management</title>
-    <description>This is a job where you will be working with puppies, rainbows and unicorns. Be prepared for conditions with lots of sunlight and playing. Occupational hazards include: butterflies, bees, tripping on puppies, and rolling down grassy hills.
-Salary Range:
-$10,000,000,000.00/year
-Years of Experience: 5-10</description>
-    <location>Washington, DC</location>
-    <applyUrl>https://company.com/apply/apples</applyUrl>
-    <clearance_level>SCI</clearance_level>
-    <labor_category>web development</labor_category>
-    <salaries>$10,000,000,000.00/year</salaries>
-    <degree_requirements>N/A</degree_requirements>
-    <years_experience>5-10</years_experience>
+    <partnerJobId>N/A</partnerJobId>
+    <company>N/A</company>
+    <title>N/A</title>
+    <description>(U) Analyzes user’s requirements, concept of operations documents, and high level system architectures to develop system requirements specifications. Analyzes system requirements and leads design and development activities. Guides users in formulating requirements, advises alternative approaches, and conducts feasibility studies. Provides technical leadership for the integration of requirements, design, and technology. Incorporates new plans, designs and systems into ongoing operations. Develops technical documentation. Develops system Architecture and system design documentation. Guides system development and implementation planning through assessment or preparation of system engineering management plans and system integration and test plans. Interacts with the Government regarding Systems Engineering technical considerations and for associated problems, issues or conflicts. Ultimate responsibility for the technical integrity of work performed and deliverables associated with the Systems Engineering area of responsibility. Communicates with other program personnel, government overseers, and senior executives.
+(U) The Level 1 System Engineer shall possess the following capabilities:
+(U) Contribute to the development of sections of systems engineering documentation such as System Engineering Plans, Initial Capabilities Documents, Requirements specifications, and Interface Control Documents
+
+(U) Manage system requirements and derived requirements to ensure the delivery of production systems that are compatible with the defined system architecture(s) – Department of Defense Architecture Framework (DoDAF), Service-oriented Architecture (SOA)
+
+(U) Assist with the development of system requirements, functional requirements, and allocation of the same to individual hardware, software, facility, and personnel components
+
+(U) Coordinate the resolution of action items from Configuration Control Board (CCB) meetings, design reviews, program reviews, and test reviews that require cross-discipline coordination
+
+(U) Participate in an Integrated Product Team to design new capabilities based upon evaluation of all necessary development and operational considerations
+
+(U) Participate in the development of system engineering documentation, such as System Engineering Plans, Initial Capabilities Documents, Requirements Specifications, and Interface Control Documents
+
+(U) Participate in interface definition, design, and changes to the configuration between affected groups and individuals throughout the life cycle
+
+(U) Allocate real-time process budgets and error budgets to systems and subsystem components
+
+(U) Derive from the system requirements an understanding of stakeholder needs, functions that may be logically inferred and implied as essential to system effectiveness
+
+
+(U) Derive lower-level requirements from higher-level allocated requirements that describe in detail the functions that a system component must fulfill, and ensure these requirements are complete, correct, unique, unambiguous, realizable, and verifiable
+
+(U) Generate alternative system concepts, physical architectures, and design solutions
+
+(U) Participate in establishing and gaining approval of the definition of a system or component under development (requirements, designs, interfaces, test procedures, etc.) that provides a common reference point for hardware and software developers
+
+(U) Define the methods, processes, and evaluation criteria by which the systems, subsystems and work products are verified against their requirements in a written plan
+
+(U) Develop system design solution that satisfies the system requirements and fulfills the functional analysis
+
+(U) Develop derived requirements for Information Assurance Services (Confidentiality, Integrity, Non repudiation, and Availability); Basic Information Assurance Mechanisms (e.g., Identification, Authentication, Access Control, Accountability); and Security Mechanism Technology (Passwords, cryptography, discretionary access control, mandatory access control, hashing, key management, etc.)
+
+(U) Review and provide input to program and contract work breakdown structure (WBS), work packages and the integrated master plan (IMP)
+
+(U) Provide technical direction for the development, engineering, interfacing, integration, and testing of specific components of complex hardware/software systems to include requirements elicitation, analysis and functional allocation, conducting systems requirements reviews, developing concepts of operation and interface standards, developing system architectures, and performing technical/non- technical assessment and management as well as end-to-end flow analysis
+
+(U) Implement comprehensive SOA solutions
+
+(U) Implement operational view, technical standards view, and system and services view for architectures using applicable DoDAF standards
+
+(U) Develop scenarios (threads) and an Operational Concept that describes the interactions between the system, the user, and the environment, that satisfies operational, support, maintenance, and disposal needs
+
+(U) Review and/or approve system engineering documentation to ensure that processes and specifications meet system needs and are accurate, comprehensive, and complete
+(U) Qualifications
+(U) Seven (7) years experience in programs and contracts of similar scope, type and complexity is required.
+
+
+(U) Bachelor’s degree in System Engineering, Computer Science, Information Systems, Engineering Science, Engineering Management, or related discipline from an accredited college or university is required. Five (5) years of additional SE experience may be substituted for a bachelor’s degree.
+(U) Professional Experience
+Company
+MM/YYYY–Present
+Title
+MM/YYYY–MM/YYYY</description>
+    <location>N/A</location>
+    <applyUrl>N/A</applyUrl>
+    <clearanceLevel>TS/SCI</clearanceLevel>
+    <laborCategory>System Engineer 1</laborCategory>
+    <salaryRange>N/A</salaryRange>
+    <degreeRequirements>N/A</degreeRequirements>
   </job>
+</source>
