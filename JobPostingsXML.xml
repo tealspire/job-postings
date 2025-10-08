@@ -3,20 +3,25 @@
   <job>
     <partnerJobId>N/A</partnerJobId>
     <company>N/A</company>
-    <title>N/A</title>
-    <description>● Ensure the Splunk infrastructure functions properly with PKI-based authentication, corporate
+    <title>Splunk Engineer</title>
+    <description>
+● Ensure the Splunk infrastructure functions properly with PKI-based authentication, corporate
 authorization services, firewalls, and SSL/TLS communications.
+
 ● Contribute to development and ongoing improvement of industry best practices and standards for
 maintaining data analytics enterprise technologies.
+
 ● Assist with installing, testing, and deploying hotfixes/patches for Splunk app/product releases to
 manage enterprise vulnerabilities.
+
 ● Assist with development of knowledge articles, documentation, and work instructions used by the
 Splunk, server , desktop and Information System Security teams, and Tier 2/3 Help Desk technicians.
-Billet R equir ements</description>
+</description>
     <location>N/A</location>
     <applyUrl>N/A</applyUrl>
-    <clearanceLevel>N/A</clearanceLevel>
-    <laborCategory>N/A</laborCategory>
+    <clearanceLevel>TS/SCI
+Polygraph: FS</clearanceLevel>
+    <laborCategory>System Engineer - Level 3 - 7038 GDIT Job Code(s): - - -</laborCategory>
     <salaryRange>N/A</salaryRange>
     <degreeRequirements>N/A</degreeRequirements>
     <yearsExperience>N/A</yearsExperience>
@@ -24,45 +29,64 @@ Billet R equir ements</description>
   <job>
     <partnerJobId>N/A</partnerJobId>
     <company>N/A</company>
-    <title>N/A</title>
+    <title>Enterprise Tools Management</title>
     <description>1. Service Monitoring and Management:
+
 ● Continuously monitor the availability and performance of Splunk, SCCM, Micro Focus, and 1E.
+
 ● Identify , analyze, and resolve issues related to these enterprise tools in a timely manner .
+
 ● Implement proactive measures to prevent service disruptions and optimize performance.
 2. Enterprise Patching:
+
 ● Manage and execute patching activities across the enterprise to address security vulnerabilities
 and ensure system stability .
+
 ● Coordinate with relevant teams to schedule and deploy patches with minimal disruption to
 business operations.
+
 ● Maintain accurate records of patching activities and verify the successful implementation of
 patches.
 3. Performance Analytics:
+
 ● Utilize performance analytics tools to assess the ef ficiency and ef fectiveness of enterprise
 services.
+
 ● Generate regular reports on service performance, patching status, and security compliance.
+
 ● Provide insights and recommendations for performance improvements and security
 enhancements.
 4. Issue Remediation:
+
 ● Respond to and resolve incidents related to enterprise tools promptly .
+
 ● Perform root cause analysis of recurring issues and develop strategies to prevent future
 occurrences.
+
 ● Collaborate with other IT  teams to address complex problems and implement long-term solutions.
 5. Security Compliance:
+
 ● Ensure all enterprise services meet security compliance requirements and industry best practices.
+
 ● Stay current with relevant security standards and updates, integrating them into enterprise tool
 management processes.
+
 ● Conduct periodic security assessments and audits to maintain compliance.
 6. Documentation and Communication:
+
 ● Develop and maintain comprehensive documentation for monitoring, patching, and performance
 processes.
+
 ● Communicate ef fectively with stakeholders regarding service status, incidents, and resolution
 progress.
+
 ● Prepare and present reports to management on service performance and compliance status.
-Billet R equir ements</description>
+</description>
     <location>N/A</location>
     <applyUrl>N/A</applyUrl>
-    <clearanceLevel>N/A</clearanceLevel>
-    <laborCategory>N/A</laborCategory>
+    <clearanceLevel>TS/SCI
+Polygraph: FS</clearanceLevel>
+    <laborCategory>System Engineer - Level 2 - 7037 GDIT Job Code(s): - - -</laborCategory>
     <salaryRange>N/A</salaryRange>
     <degreeRequirements>N/A</degreeRequirements>
     <yearsExperience>N/A</yearsExperience>
@@ -174,7 +198,38 @@ MM/YYYY–MM/YYYY</description>
     <location>N/A</location>
     <applyUrl>N/A</applyUrl>
     <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
-    <laborCategory>Communications Network Engineer Skill Level 3</laborCategory>
+    <laborCategory>Communications Network Engineer Skill Level 3
+ Labor Category Description
+(U//FOUO) Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration.
+ Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. 
+ Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
+ The Level 3 Communications Network Engineer shall possess the following capabilities:
+ Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.
+
+
+
+ Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.
+
+
+
+ Coordinates Telecommunications services to support installations and maintenance.  Resolves problems to include performance and configuration.
+ Qualifications
+ Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required.
+
+
+
+
+
+ A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.
+MASTERS DEGREE:
+UNIVERSITY:
+BACHELOR’S DEGREE:
+UNIVERSITY:
+ Professional Experience
+Company
+MM/YYYY–Present
+Title
+MM/YYYY–MM/YYYY</laborCategory>
     <salaryRange>N/A</salaryRange>
     <degreeRequirements>N/A</degreeRequirements>
     <yearsExperience> Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required.</yearsExperience>
@@ -240,7 +295,62 @@ MM/YYYY–MM/YYYY</description>
     <location>N/A</location>
     <applyUrl>N/A</applyUrl>
     <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
-    <laborCategory>System Engineer 1</laborCategory>
+    <laborCategory>System Engineer 1
+ Labor Category Description
+ Analyzes user’s requirements, concept of operations documents, and high level system architectures to develop system requirements specifications. Analyzes system requirements and leads design and development activities. Guides users in formulating requirements, advises alternative approaches, and conducts feasibility studies. Provides technical leadership for the integration of requirements, design, and technology. Incorporates new plans, designs and systems into ongoing operations. Develops technical documentation. Develops system Architecture and system design documentation. Guides system development and implementation planning through assessment or preparation of system engineering management plans and system integration and test plans. Interacts with the Government regarding Systems Engineering technical considerations and for associated problems, issues or conflicts. Ultimate responsibility for the technical integrity of work performed and deliverables associated with the Systems Engineering area of responsibility. Communicates with other program personnel, government overseers, and senior executives.
+ The Level 1 System Engineer shall possess the following capabilities:
+ Contribute to the development of sections of systems engineering documentation such as System Engineering Plans, Initial Capabilities Documents, Requirements specifications, and Interface Control Documents
+
+ Manage system requirements and derived requirements to ensure the delivery of production systems that are compatible with the defined system architecture(s) – Department of Defense Architecture Framework (DoDAF), Service-oriented Architecture (SOA)
+
+ Assist with the development of system requirements, functional requirements, and allocation of the same to individual hardware, software, facility, and personnel components
+
+ Coordinate the resolution of action items from Configuration Control Board (CCB) meetings, design reviews, program reviews, and test reviews that require cross-discipline coordination
+
+ Participate in an Integrated Product Team to design new capabilities based upon evaluation of all necessary development and operational considerations
+
+ Participate in the development of system engineering documentation, such as System Engineering Plans, Initial Capabilities Documents, Requirements Specifications, and Interface Control Documents
+
+ Participate in interface definition, design, and changes to the configuration between affected groups and individuals throughout the life cycle
+
+ Allocate real-time process budgets and error budgets to systems and subsystem components
+
+ Derive from the system requirements an understanding of stakeholder needs, functions that may be logically inferred and implied as essential to system effectiveness
+
+
+ Derive lower-level requirements from higher-level allocated requirements that describe in detail the functions that a system component must fulfill, and ensure these requirements are complete, correct, unique, unambiguous, realizable, and verifiable
+
+ Generate alternative system concepts, physical architectures, and design solutions
+
+ Participate in establishing and gaining approval of the definition of a system or component under development (requirements, designs, interfaces, test procedures, etc.) that provides a common reference point for hardware and software developers
+
+ Define the methods, processes, and evaluation criteria by which the systems, subsystems and work products are verified against their requirements in a written plan
+
+ Develop system design solution that satisfies the system requirements and fulfills the functional analysis
+
+ Develop derived requirements for Information Assurance Services (Confidentiality, Integrity, Non repudiation, and Availability); Basic Information Assurance Mechanisms (e.g., Identification, Authentication, Access Control, Accountability); and Security Mechanism Technology (Passwords, cryptography, discretionary access control, mandatory access control, hashing, key management, etc.)
+
+ Review and provide input to program and contract work breakdown structure (WBS), work packages and the integrated master plan (IMP)
+
+ Provide technical direction for the development, engineering, interfacing, integration, and testing of specific components of complex hardware/software systems to include requirements elicitation, analysis and functional allocation, conducting systems requirements reviews, developing concepts of operation and interface standards, developing system architectures, and performing technical/non- technical assessment and management as well as end-to-end flow analysis
+
+ Implement comprehensive SOA solutions
+
+ Implement operational view, technical standards view, and system and services view for architectures using applicable DoDAF standards
+
+ Develop scenarios (threads) and an Operational Concept that describes the interactions between the system, the user, and the environment, that satisfies operational, support, maintenance, and disposal needs
+
+ Review and/or approve system engineering documentation to ensure that processes and specifications meet system needs and are accurate, comprehensive, and complete
+ Qualifications
+ Seven (7) years experience in programs and contracts of similar scope, type and complexity is required.
+
+
+ Bachelor’s degree in System Engineering, Computer Science, Information Systems, Engineering Science, Engineering Management, or related discipline from an accredited college or university is required. Five (5) years of additional SE experience may be substituted for a bachelor’s degree.
+ Professional Experience
+Company
+MM/YYYY–Present
+Title
+MM/YYYY–MM/YYYY</laborCategory>
     <salaryRange>N/A</salaryRange>
     <degreeRequirements>N/A</degreeRequirements>
     <yearsExperience> Seven (7) years experience in programs and contracts of similar scope, type and complexity is required.</yearsExperience>
@@ -408,7 +518,164 @@ MM/YYYY–MM/YYYY</description>
     <location>N/A</location>
     <applyUrl>N/A</applyUrl>
     <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
-    <laborCategory>System Engineer III</laborCategory>
+    <laborCategory>System Engineer III
+ Labor Category Description
+ Analyzes user’s requirements, concept of operations documents, and high level system architectures to develop system requirements specifications. Analyzes system requirements and leads design and development activities. Guides users in formulating requirements, advises alternative approaches, and conducts feasibility studies. Provides technical leadership for the integration of requirements, design, and technology. Incorporates new plans, designs and systems into ongoing operations. Develops technical documentation. Develops system Architecture and system design documentation. Guides system development and implementation planning through assessment or preparation of system engineering management plans and system integration and test plans. Interacts with the Government regarding Systems Engineering technical considerations and for associated problems, issues or conflicts. Ultimate responsibility for the technical integrity of work performed and deliverables associated with the Systems Engineering area of responsibility. Communicates with other program personnel, government overseers, and senior executives.
+ The Level 3 System Engineer shall possess the following capabilities:
+ Contribute to the development of sections of systems engineering documentation such as System Engineering Plans, Initial Capabilities Documents, Requirements specifications, and Interface Control Documents
+
+
+ Manage system requirements and derived requirements to ensure the delivery of production systems that are compatible with the defined system architecture(s) – Department of Defense Architecture Framework (DoDAF), Service-oriented Architecture (SOA), etc
+
+
+ Assist with the development of system requirements, functional requirements, and allocation of the same to individual hardware, software, facility, and personnel components
+
+
+ Coordinate the resolution of action items from Configuration Control Board (CCB) meetings, design reviews, program reviews, and test reviews that require cross-discipline coordination
+
+
+ Participate in an Integrated Product Team to design new capabilities based upon evaluation of all necessary development and operational considerations
+
+
+ Participate in the development of system engineering documentation, such as System Engineering Plans, Initial Capabilities Documents, Requirements Specifications, and Interface Control Documents
+
+
+ Participate in interface definition, design, and changes to the configuration between affected groups and individuals throughout the life cycle
+
+
+ Allocate real-time process budgets and error budgets to systems and subsystem components
+
+
+ Derive from the system requirements an understanding of stakeholder needs, functions that may be logically inferred and implied as essential to system effectiveness
+
+
+ Derive lower-level requirements from higher-level allocated requirements that describe in detail the functions that a system component must fulfill, and ensure these requirements are complete, correct, unique, unambiguous, realizable, and verifiable
+
+
+ Generate alternative system concepts, physical architectures, and design solutions
+
+
+ Participate in establishing and gaining approval of the definition of a system or component under development (requirements, designs, interfaces, test procedures, etc.) that provides a common reference point for hardware and software developers
+
+
+ Define the methods, processes, and evaluation criteria by which the systems, subsystems and work products are verified against their requirements in a written plan
+
+
+ Develop system design solution that satisfies the system requirements and fulfills the functional analysis
+
+
+ Develop derived requirements for Information Assurance Services (Confidentiality, Integrity, Non repudiation, and Availability); Basic Information Assurance Mechanisms (e.g., Identification, Authentication, Access Control, Accountability); and Security Mechanism Technology (Passwords, cryptography, discretionary access control, mandatory access control, hashing, key management, etc.)
+
+
+ Review and provide input to program and contract work breakdown structure (WBS), work packages and the integrated master plan (IMP)
+
+
+
+
+ Provide technical direction for the development, engineering, interfacing, integration, and testing of specific components of complex hardware/software systems to include requirements elicitation, analysis and functional allocation, conducting systems requirements reviews, developing concepts of operation and interface standards, developing system architectures, and performing technical/non- technical assessment and management as well as end-to-end flow analysis
+
+
+ Implement comprehensive SOA solutions
+
+
+ Implement operational view, technical standards view, and system and services view for architectures using applicable DoDAF standards
+
+
+ Develop scenarios (threads) and an Operational Concept that describes the interactions between the system, the user, and the environment, that satisfies operational, support, maintenance, and disposal needs
+
+
+ Review and/or approve system engineering documentation to ensure that processes and specifications meet system needs and are accurate, comprehensive, and complete
+
+
+ Conduct quantitative analysis in non-functional system performance areas like Reliability, Maintainability, Vulnerability, Survivability, Produceability, etc.)
+
+
+ Establish and follow a formal procedure for coordinating system integration activities among multiple teams, ensuring complete coverage of all interfaces
+
+
+ Capture all interface designs in a common interface control format, and store interface data in a commonly accessible repository
+
+
+ Prepare time-line analysis diagrams illustrating the flow of time-dependent functions
+
+
+ Establish a process to formally and proactively control and manage changes to requirements, consider impacts prior to commitment to change, gain stakeholder buy-in, eliminate ambiguity, ensure traceability to source requirements, and track and settle open actions
+
+ Assess each risk to the program and determine the probability of occurrence and quantified consequence of failure in accordance with an approved risk management plan
+
+
+ Manage and ensure the technical integrity of the system baseline over time, continually updating it as various changes are imposed on the system during the lifecycle from development through deployment and operations &amp; maintenance
+
+
+ In conjunction with system stakeholders, plan the verification efforts of new and unproven designs early in the development life cycle to ensure compliance with established requirements
+
+
+ Support the planning and test analysis of the DoD Certification/Accreditation Process (as well as other Government Certification and Accreditation (C&amp;A) processes)
+
+
+ Support the development and review of Joint Capability Integration Development System (JCIDS) documents (i.e., Initial Capability Document, Capabilities Description Document, IA Strategy)
+
+
+ Provide technical direction for the development, engineering, interfacing, integration, and testing of all components of complex hardware/software systems to include requirements elicitation, analysis and functional allocation, conducting systems requirements reviews, developing concepts of operation and interface standards, developing system architectures, and performing technical/non- technical assessment and management as well as end-to-end flow analysis.
+
+
+ Develop comprehensive SOA solutions
+
+
+ Develop operational view, technical standards view, and system and services view for architectures using applicable DoDAF standards
+
+
+ Conduct and/or approve end-to-end system trade analyses to optimize system operations over its life-cycle through the proper balance of non-functional system performance areas
+
+
+ Improve standard integration strategies based upon rationale for previous decisions that resulted in improved integration performance
+ Fully define interfaces in terms of origination, destination, stimulus, and data characteristics for software; and electrical and mechanical characteristics for hardware
+
+
+ Use validated models, simulations, and prototyping to mitigate risk and reduce cost of system development
+
+
+ Develop alternative courses of action, workarounds, and fall-back positions with a recommended course of action for each risk, and monitor and re-evaluate risks at appropriate milestones. Monitors risks using earned value management (EVM) data
+
+
+ Maintain knowledge of current and evolving agency, national, and international standards applicable to the system development of interest. Apply and enforce use of suitable standards to ensure consistency and interoperability of developer hardware and software
+
+
+ Ensure effective, periodic review and control of the evolving configuration of a system, both hardware and software components and associated documentation, during the life of the system
+
+
+ Serve as a member of the CCB
+
+
+ As a participant within an Analysis of Alternatives (AoA) effort, recommend a preferred solution based on selection criteria adjusted for reasonableness and validity of assumptions, technology limitations, environmental impact, and life-cycle costs
+
+
+ Develop system design alternatives that consider life cycle cost, reuse, complexity, risk, system expansion, and growth
+ Qualifications
+ Twenty (20) years experience as a SE in programs and contracts of similar scope, type and complexity is required.
+
+
+
+
+
+ Bachelor’s degree in System Engineering, Computer Science, Information Systems, Engineering Science, Engineering Management, or related discipline from an accredited college or university is required. 
+
+MAJOR:
+
+UNIVERSITY:
+
+ Five (5) years of additional SE experience may be substituted for a bachelor’s degree.
+ Additional contract or position specific required experience for this level (skills, technologies, expertise): 
+
+
+SIGINT: Tactical or Strategic Front-end SIGINT systems. Dataflow experience current within the last eight (8) years. One (1) of the system experiences defined Appendix D of the SOW. 
+
+GigaBeam WiFiber G125 training and certification (years of experience NA).
+ Professional Experience
+Company
+MM/YYYY–Present
+Title
+MM/YYYY–MM/YYYY</laborCategory>
     <salaryRange>N/A</salaryRange>
     <degreeRequirements>N/A</degreeRequirements>
     <yearsExperience> Twenty (20) years experience as a SE in programs and contracts of similar scope, type and complexity is required.</yearsExperience>
