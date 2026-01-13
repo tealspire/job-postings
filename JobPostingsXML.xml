@@ -3,59 +3,41 @@
   <job>
     <partnerJobId/>
     <company/>
-    <title>OneDrive Storage Engineer (M365)</title>
-    <description>Mandatory: Ability to work independently and collaboratively in a team-oriented environment
-  (U)Excellent communication and interpersonal skills, with a customer-focused approach to service delivery
-  (U)Experience with data replication, backup, and disaster recovery strategies in both cloud and on-premises environments
-  (U)Expertise in migrating data to Microsoft 365 (M365) and OneDrive, with a solid understanding of cloud migration methodologies
-  (U)In-depth knowledge of NetApp storage systems, including configuration, administration, and performance tuning
-  (U)Proven experience as a Senior Storage Engineer or similar role, specializing in NetApp storage solutions
-  (U)Strong analytical and problem-solving skills, with the ability to troubleshoot complex storage issues</description>
+    <title>System Administrator - Tier 2</title>
+    <description>Provides technical support and troubleshooting to network, desktop, and/or systems hardware and software
+(U) May coach and provide guidance to less-experienced professionals
+(U) Applies basic diagnostic techniques to identify problems, investigate causes, and recommend solutions
+Mandatory Skills: Hardware
+(U) Remote Assistance
+(U) Remote Desktop
+</description>
     <location>Annapolis Junction, MD</location>
     <applyUrl/>
     <clearanceLevel>TS/SCI
-    Polygraph: FS</clearanceLevel>
-    <laborCategory>System Engineer - Level 2 - 7037</laborCategory>
+Polygraph: FS</clearanceLevel>
+    <laborCategory>System Administrator - Level 2 - 7033</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
-    <yearsExperience>HS or GED AND 19 OR Bachelors AND 14</yearsExperience>
+    <yearsExperience/>
   </job>
   <job>
-    <partnerJobId/>
+    <partnerJobId>0311-15</partnerJobId>
     <company/>
-    <title>Active Directory Systems Engineer</title>
-    <description>Mandatory: Ability to Work Independently or with a Team
-  (U)Ability to quickly get up to speed on complex topologies and interdependencies across a wide range of technologies, most specifically: 2012 or later forest/domains and complex group policy architecture and administration
-  (U)Ability to take direction and retain information
-  (U)Ability to work with little supervision in high stress / high visibility environments with time sensitive requirements
-  (U)Analytical and creative problem-solving skills for creation and testing of software systems and maintenance of same
-  (U)Applies methods, theories and research techniques in the investigation and solution of the complex system requirements and problems.
-  (U)Assist in the planning and performing of analytical research, design development, and other assignments in conformance with design, engineering, and customer specifications
-  (U)Azure Active Directory
-  (U)Creative Problem Solving
-  (U)Domain Name System (DNS)
-  (U)Engineering Solutions
-  (U)Excellent communication and interpersonal skills
-  (U)Experience with architecting and engineering enterprise level solutions
-  (U)Microsoft PowerShell
-  (U)Microsoft Windows Server 2008 R2
-  (U)Microsoft Windows Server 2012
-  (U)Plans, conducts, and oversees the technical aspects of projects; coordinates the efforts of technical support staff in the performance of assigned projects
-  (U)Proficiency with Active Directory, Group Policy, and network configurations.
-  (U)Provides technical consultation
-  (U)Strong problem-solving skills and the ability to troubleshoot complex technical issues
-  (U)Updates and maintains training tools and documentation
-  (U)Windows 10
-  (U)Windows Server 2016
-  (U)Desired: GPO Admin
-  (U)Microsoft FIM/MIM
-  (U)Password Manager
-  (U)Quest ARS</description>
-    <location>Annapolis Junction, MD</location>
+    <title>Linux System Administrator</title>
+    <description>Desired Skills: Familiarity with Big Fix
+(U)Familiarity with Ansible
+(U)Qualifications:
+(U)A bachelor’s degree and ten (10) years of experience as a system administrator on programs of similar scope and complexity is required. In lieu of a bachelor’s degree fifteen (15) years of experience required.
+(U)In depth Linux experience.
+(U)Familiarity with PowerShell and Bash scripting languages.
+(U)Experience with system hardening.
+(U)Experience working with ISSOs for system compliance.
+(U)DoD 8570 compliance with Information Assurance
+(U)Technical (IAT) Level I is required.</description>
+    <location/>
     <applyUrl/>
-    <clearanceLevel>TS/SCI
-    Polygraph: FS</clearanceLevel>
-    <laborCategory>System Engineer - Level 2 - 7037</laborCategory>
+    <clearanceLevel>TS/SCI with Polygraph</clearanceLevel>
+    <laborCategory>System Administrator (SA) Skill Level 2</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
     <yearsExperience/>
@@ -63,87 +45,204 @@
   <job>
     <partnerJobId/>
     <company/>
-    <title>
-    Connectivity Engineer – Line 3 Function 1</title>
-    <description>Connectivity Engineer – Line 3 Function 1
-  (U) Perform engineering services to enable all aspects of network management from network design through implementation, maintenance, sustainment of existing
-  (U)networks, and identification/correction of complex internetwork issues. Implements and sustains Wide area networks (WANs), Campus Area Networks (CANs), Data Center Networks/Interfaces (DCN/DCI), Network Security (NETSEC) and Tactical/Deployable Networking Systems. Analyzes design, specifications, and related documents. Implements communication system requirements to support the distributed functionality of a networked enterprise environment. Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends modification of network configurations.
-  (U)The Level 3 Connectivity Engineer – Line 3 Function 1 shall possess the following capabilities:
-  (U) Resolve complex network problems, and operate network analyzers, WAN test equipment and network simulators.
-  (U) Perform site surveys, system installations, configuration management, maintenance, modernization, and sustainment of a global Enterprise Network.
-  (U) Perform Connectivity engineering services to pre and post deployment tests.
-  (U) Implement specific network solutions to support server requirements to include load-balancing, VPN’s, firewall contexts, and network address translation (NAT) where appropriate.
-  (U) Minimize network latency and maximize data throughput.
-  (U) Validate new and existing dataflow and data formats.
-  (U) Lead large efforts of dynamic requirements and scale.
-  (U) Work with System engineers, customers, and cross organizational teams to refine requirements.
-  (U) Coordinate with appropriate dataflow organizations and end-customer recipients, follow-on data repositories and tasking organizations and understand potential adverse impacts on system-wide dataflow.
-  (U) Perform security testing and design evaluations.
-  (U) Employ Government standards to configure the interconnects between data centers, networks and security boundaries.
-  (U) Draft technical requirements, configuration management, and planning documentation.
-  (U) Perform support to QC, QA, and CM services.
-  (U) Design, integrate, configure, deploy, test and maintain numerous types of network devices, interfaces and technologies to include VPN, VRF, VSS, BGP and OSPF routing, and VLAN.
-  (U) Optimize end-to-end system performance (capacity, margins, data quality etc.) and dataflow management.
-  (U) Configure and optimize the network to connect various front-end and back-end components
-  (U) Coordinate with the system engineering and dataflow efforts to ensure proper mission operations with minimal down time.
-  (U) Facilitate the implementation of high-speed, scalable, fault-tolerant network topologies as applicable to WAN and LAN design.
-  (U)Qualifications:  Twelve (12) years’ experience in programs and contracts of similar scope, type, and
-  (U)complexity is required. Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a Bachelor’s degree. Certifications: An IAT level III baseline certification as defined by DoD 8570.01-M is required. An IAT II will be accepted (Security + CE, GSEC, or SSCP) if the candidate obtains an IAT level III (CISA, CISSP, CASP, GCIH, or GCED) within 1 year of contract award and provide expected date for completion. Replacement candidates must meet the IAT level III baseline certification requirement by the date of assignment to contract. A CCNP certification or higher. ITIL ® V3 Foundations.
-  (U)Communications Network Engineer Skill Level 3 Labor Category
-  (U)Communications Network Engineer
-  (U) Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration. Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
-  (U)The Level 3 Communications Network Engineer shall possess the following capabilities:
-  (U)Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and
-  (U)Video) requirements, designs and orders.
-  (U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.
-  (U) Coordinates Telecommunications services to support installations and maintenance.
-  (U) Resolves problems to include performance and configuration.
-  (U)Qualifications:  Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required. A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.</description>
-    <location/>
+    <title>Splunk Engineer</title>
+    <description>Mandatory: Experience managing user authentication within Splunk including RBAC/ABAC
+(U)Experience reviewing network, host, and firewall security logs
+(U)Strong organizational, communication, and collaboration skills
+(U)Desired: Experience with Splunk Machine Learning Toolkit (MLTK)
+(U)Experience with scripting languages such as CSS, HTML, JavaScript, and Python
+(U)Knowledge of RMF, Trellix ePO, NESSUS, SCAP, and vulnerability scanning
+(U)ServiceNow Ticketing System
+(U)Shell scripting to automate tasks and manipulate data
+</description>
+    <location>Annapolis Junction, MD</location>
     <applyUrl/>
-    <clearanceLevel>N/A</clearanceLevel>
-    <laborCategory>
-    Skill Level 3 Labor Category</laborCategory>
+    <clearanceLevel>TS/SCI
+Polygraph: FS</clearanceLevel>
+    <laborCategory/>
     <salaryRange/>
     <degreeRequirements/>
-    <yearsExperience> Twelve </yearsExperience>
+    <yearsExperience/>
   </job>
   <job>
     <partnerJobId/>
     <company/>
-    <title>Interconnectivity Engineer Skill Level 3
-    (U)</title>
-    <description> Serves as the Communications/Network Engineering Team Leader, including overall leadership responsibility for Communications/Networks Engineers. Resolves complex network problems, operate network analyzers, WAN test equipment and network simulators. Supports and provides site personnel training on network fundamentals and specific network hardware. Performs network services from network design through implementation, maintenance, and upgrading of existing networks. Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends procurement of and/or modifications to network components. Possess advanced written and verbal communications skills. Serves as the single point of contact for all complex Networking requirements. Assists other project members with analysis and evaluation and with the preparation of recommendations for system improvements, optimization, development, and/or maintenance efforts in the following specialties: information systems architecture; networking; telecommunications; automation; communications protocols.
-    (U) The Interconnectivity Engineer Skill Level 3 shall possess the following capabilities
-    (U) Establishes system information requirements using analysis of the information engineer(s) in the development of enterprise-wide or large-scale information systems.
-    (U) Designs architecture to include the software, hardware, and communications to support the total requirements as well as provide for present and future cross-functional requirements and interfaces.
-    (U) Ensures these systems are compatible and in compliance with the standards for agency IT architectures, and profiles of standards as they apply to the implementation and specific to the solution for the platform, integration with other systems, and the external interfaces.
-    (U) Ensures that the common operating environment is compliant with industry Enterprise standards and best practices.
-    (U) Evaluates analytically and systematically problems of work flows, organization and planning and develops appropriate corrective action.
-    (U) Provides daily supervision and direction to staff.
-    (U) Develops engineering drawings for various reasons including site plans, electrical interconnects and mechanical plans for specialized hardware.
-    (U) Responsible for understanding the needs of the customers and the realities of commercially available IT products, and creating requirements that will allow implementation by the architecture and engineering team and COTS products.
-    (U) Configure and troubleshoot complex converged networks to increase bandwidth, improve response time, maximize performance, and support global operations.
-    (U) Configure complex, end-to-end secure networks, troubleshoot integrated environments, anticipate and
-    (U) respond to network attacks and implement mitigation techniques.
-    (U) Configure and troubleshoot advanced technologies to support service provider networks, such as service
-    (U)provisioning, MPLS, VPNs, service level agreements and advanced security.
-    (U) Configure and troubleshoot storage area networks over variety of interfaces.
-    (U) Configure complex end-to-end telephony network, troubleshooting and resolving VoIP-related problems.
-    (U) Act as the central Point of Contact for the Planning, designing, implementing, operating and troubleshooting of an organization’s wireless network and mobility infrastructure.
-    (U) Twelve (12) years of experience in programs and contracts of similar scope, type, and complexity is required.
-    (U) Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a bachelor's degree.
-    (U) IAT level II baseline certification as defined by DoD 8570.01-M is required.(U) Current CCIE Certification is required.
-    (U) Domain Area(s) Specialized Requirements:
-    (U) Business: Translating business requirements into network specifications
-    (U) Computer Network Operations: Network Tools; Whats Up Gold and Netflow
-    (U) SIGINT: SIGINT Tools, Common View/Max View, Triton, and TUMMS</description>
+    <title>Tools Software Engineer</title>
+    <description>Mandatory: Experience in Python, R, JavaScript, or Perl programming; or UNIX scripting
+(U)Experience integrating with the OpenText Enterprise Management tools suite
+(U)Must be a self-starter with strong attention to detail
+(U)Proficient in Linux/UNIX commands
+(U)Proficient in Windows Server OS
+(U)Desired: Application/SA Experience with the OpenText Ops Bridge Suite
+(U)Experience with OpenText Application Performance Management (APM)
+(U)Experience with OpenText Business Process Monitor (BPM)
+(U)Experience with OpenText OPTIC Data Lake
+(U)Experience with OpenText Operations Bridge Reporter (OBR)
+(U)Experience with operating data analytics apps (Splunk or Elastic ELK)
+(U)Strong organizational, communication, and collaboration skills
+</description>
+    <location>Annapolis Junction, MD</location>
+    <applyUrl/>
+    <clearanceLevel>TS/SCI
+Polygraph: FS</clearanceLevel>
+    <laborCategory/>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience/>
+  </job>
+  <job>
+    <partnerJobId/>
+    <company/>
+    <title>Connectivity Engineer</title>
+    <description>
+(U) Perform engineering services to enable all aspects of network management from network design through implementation, maintenance, sustainment of existing networks, and identification/correction of complex internetwork issues. Implements and sustains Wide area networks (WANs), Campus Area Networks (CANs), Data Center Networks/Interfaces (DCN/DCI), Network Security (NETSEC) and Tactical/Deployable Networking Systems. Analyzes design, specifications, and related documents. Implements communication system requirements to support the distributed functionality of a networked enterprise environment. Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends modification of network configurations.
+(U) The Level 3 Connectivity Engineer – Line 3 Function 1 shall possess the following capabilities:
+(U) Resolve complex network problems, and operate network analyzers, WAN test equipment and network simulators.
+(U) Perform site surveys, system installations, configuration management, maintenance, modernization, and sustainment of a global Enterprise Network.
+(U) Perform Connectivity engineering services to pre and post deployment tests.
+(U) Implement specific network solutions to support server requirements to include load-balancing, VPN’s, firewall contexts, and network address translation (NAT) where appropriate.
+(U) Minimize network latency and maximize data throughput.
+(U) Validate new and existing dataflow and data formats.
+(U) Lead large efforts of dynamic requirements and scale.
+(U) Work with System engineers, customers, and cross organizational teams to refine requirements.
+(U) Coordinate with appropriate dataflow organizations and end-customer recipients, follow-on data repositories and tasking organizations and understand potential adverse impacts on system-wide dataflow.
+(U) Perform security testing and design evaluations.
+(U) Employ Government standards to configure the interconnects between data centers, networks and security boundaries.
+(U) Draft technical requirements, configuration management, and planning documentation.
+(U) Perform support to QC, QA, and CM services.
+(U) Design, integrate, configure, deploy, test and maintain numerous types of network devices, interfaces and technologies to include VPN, VRF, VSS, BGP and OSPF routing, and VLAN.
+(U) Optimize end-to-end system performance (capacity, margins, data quality etc.) and dataflow management.
+(U) Configure and optimize the network to connect various front-end and back-end components
+(U) Coordinate with the system engineering and dataflow efforts to ensure proper mission operations with minimal down time.
+(U) Facilitate the implementation of high-speed, scalable, fault-tolerant network topologies as applicable to WAN and LAN design.
+(U) Qualifications:  Twelve (12) years’ experience in programs and contracts of similar scope, type, and complexity is required. Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a Bachelor’s degree. Certifications: An IAT level III baseline certification as defined by DoD 8570.01-M is required. An IAT II will be accepted (Security + CE, GSEC, or SSCP) if the candidate obtains an IAT level III (CISA, CISSP, CASP, GCIH, or GCED) within 1 year of contract award and provide expected date for completion. Replacement candidates must meet the IAT level III baseline certification requirement by the date of assignment to contract. A CCNP certification or higher. ITIL ® V3 Foundations.
+(U) Communications Network Engineer Skill Level 3 Labor Category
+(U) Communications Network Engineer
+(U) Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration. Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
+(U) The Level 3 Communications Network Engineer shall possess the following capabilities:
+(U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.
+(U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.
+(U) Coordinates Telecommunications services to support installations and maintenance.
+(U) Resolves problems to include performance and configuration.
+(U) Qualifications:  Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required. A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.</description>
+    <location/>
+    <applyUrl/>
+    <clearanceLevel>(U) Twelve</clearanceLevel>
+    <laborCategory>
+Connectivity Engineer – Line 3 Function 1</laborCategory>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience>Twelve</yearsExperience>
+  </job>
+  <job>
+    <partnerJobId/>
+    <company/>
+    <title>Connectivity Engineer - Line 2 Function 2 Skill Level 3</title>
+    <description> Performs network design implementation, maintenance, and sustainment of existing networks; Implements and sustains Wide Area Networks (WANs), Campus Area Networks (CANs), Data Center Networks/Interfaces (DCN/DCI), Network Security (NETSEC) and Tactical/Deployable Networking Systems.
+(U) Analyzes design, specifications, and related documents.
+(U) Implements communication system requirements to support the distributed functionality of a networked enterprise environment.
+(U) Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends modification of network configurations.
+(U) The Level 3 Connectivity Engineer - Line 2 Function 2 shall possess the following capabilities:
+(U) Implement specific network solutions to support server requirements to include load-balancing, VPN's, firewall contexts, and network address translation (NAT) where appropriate.
+(U) Minimize network latency and maximize data throughput.
+(U) Validate new and existing dataflow and data formats.
+(U) Resolve complex network problems, operate network analyzers, WAN test equipment, and network simulators.
+(U) Perform site surveys, system installations, configuration management, maintenance, modernization, and sustainment of a global Enterprise Network.
+(U) Perform Connectivity Engineering Services to pre and post deployment tests.
+(U) Perform security testing and design evaluations.
+(U) Employ Government standards to configure the interconnects between data centers, networks, and security boundaries.
+(U) Draft technical requirements, configuration management, and planning documentation.
+(U) Perform QC, QA, and CM services.
+(U) Design, integrate, configure, deploy, test, and maintain numerous types of network devices, interfaces and technologies to include VPN, VRF, VSS, BGP and OSPF routing, and VLAN.
+(U) Optimize end-to-end system performance (capacity, margins, data quality, etc.) and dataflow management.
+(U) Configure and optimize the network to connect various front-end and back-end components.
+(U) Coordinate with the system engineering and dataflow efforts to ensure proper mission operations to minimize down time.
+(U) Facilitate the implementation of high-speed, scalable, fault-tolerant network topologies as applicable to WAN and LAN design.
+(U) Lead large efforts of dynamic requirements and scale.
+(U) Work with System engineers, customers, and cross-organizational teams to refine requirements.
+(U) Coordinate with appropriate dataflow organizations and end-customer recipients to mitigate potential adverse impacts on system-wide dataflow.
+(U) Qualifications
+(U) Seven (7) years' experience in programs and contracts of similar scope, type, and complexity is required.(U)MAJOR:
+(U)UNIVERSITY:
+(U) Bachelor's degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a bachelor’s degree.
+(U) Certifications
+(U) An IAT level II baseline certification as defined by DoD 8570.01-M is required. Security + CE, GSEC, or SSCP.(U)CERTIFICATION:(U)DATE:
+(U) A CCNP certification or higher; a CCNA and 2 additional year’s network experience may be substituted and candidates must show proof of actively working to obtain CCNP.(U)CERTIFICATION:(U)DATE:
+(U) ITIL ® V3 Foundations.(U)CERTIFICATION:(U)DATE:
+(U) Domain Area(s) Specialized Requirements: Unless otherwise specified in the description field Five (5) years of demonstrated experience is required for the domain items described below:
+(U) Computer Network Operations: Seven (7) years' experience in Networking (WAN/CAN/DCN/NETSEC).
+(U) Computer Network Operations: Three (3) years' experience in operations and maintenance of NSANet or another IC Community secure WAN.
+(U) Computer Network Operations: Three (3) years' experience in operations and maintenance of routed LAN/CAN, routed WAN and switched LAN networks.
+(U) Computer Network Operations: One (1) year experience operating and maintaining service provider MPLS WANs.
+(U) Computer Network Operations: One (1) year experience troubleshooting NSANet issues.
+(U) Computer Network Operations: One (1) year experience operating and maintaining Agency external (1P, 2P etc.) boundaries (peering points).
+(U) Service Industry: Communications Systems: Industry Best Practices, NSA-System Network Attack Center (SNAC) guide, DOD-Security Technical Implementation Guide (STIG).
+(U) SIGINT: Dataflow Analysis: • SIGINT Front End Processor Interfaces to Product Repositories. Understanding of one or more SIGINT collection system and the Dataflows (types of transfer protocols being utilized, backend repositories, analyst access points, etc). • Administrative Network Services (i.e. Telephony, Office automation, etc) understanding the Dataflow and packet interaction with client and servers.
+</description>
     <location/>
     <applyUrl/>
     <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
-    <laborCategory>Interconnectivity Engineer Skill Level 3 (U)</laborCategory>
+    <laborCategory>Connectivity Engineer - Line 2 Function 2 Skill Level 3</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
-    <yearsExperience> Twelve </yearsExperience>
+    <yearsExperience>Seven</yearsExperience>
+  </job>
+  <job>
+    <partnerJobId/>
+    <company/>
+    <title>Communications Network Engineer Skill Level 3</title>
+    <description> Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration.
+(U) Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. 
+(U) Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
+(U) The Level 3 Communications Network Engineer shall possess the following capabilities:
+(U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.(U)(U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.(U)(U) Coordinates Telecommunications services to support installations and maintenance.  Resolves problems to include performance and configuration.
+(U) Qualifications
+(U) Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required.(U)(U)(U) A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.
+</description>
+    <location/>
+    <applyUrl/>
+    <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
+    <laborCategory>Communications Network Engineer Skill Level 3</laborCategory>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience>Ten</yearsExperience>
+  </job>
+  <job>
+    <partnerJobId/>
+    <company/>
+    <title>Interconnectivity Engineer Skill Level 3</title>
+    <description> Serves as the Communications/Network Engineering Team Leader, including overall leadership responsibility for Communications/Networks Engineers. Resolves complex network problems, operate network analyzers, WAN test equipment and network simulators. Supports and provides site personnel training on network fundamentals and specific network hardware. Performs network services from network design through implementation, maintenance, and upgrading of existing networks. Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends procurement of and/or modifications to network components. Possess advanced written and verbal communications skills. Serves as the single point of contact for all complex Networking requirements. Assists other project members with analysis and evaluation and with the preparation of recommendations for system improvements, optimization, development, and/or maintenance efforts in the following specialties: information systems architecture; networking; telecommunications; automation; communications protocols.
+(U) The Interconnectivity Engineer Skill Level 3 shall possess the following capabilities
+(U) Establishes system information requirements using analysis of the information engineer(s) in the development of enterprise-wide or large-scale information systems.
+(U) Designs architecture to include the software, hardware, and communications to support the total requirements as well as provide for present and future cross-functional requirements and interfaces.
+(U) Ensures these systems are compatible and in compliance with the standards for agency IT architectures, and profiles of standards as they apply to the implementation and specific to the solution for the platform, integration with other systems, and the external interfaces.
+(U) Ensures that the common operating environment is compliant with industry Enterprise standards and best practices.
+(U) Evaluates analytically and systematically problems of work flows, organization and planning and develops appropriate corrective action.
+(U) Provides daily supervision and direction to staff.
+(U) Develops engineering drawings for various reasons including site plans, electrical interconnects and mechanical plans for specialized hardware.
+(U) Responsible for understanding the needs of the customers and the realities of commercially available IT products, and creating requirements that will allow implementation by the architecture and engineering team and COTS products.
+(U) Configure and troubleshoot complex converged networks to increase bandwidth, improve response time, maximize performance, and support global operations.
+(U) Configure complex, end-to-end secure networks, troubleshoot integrated environments, anticipate and respond to network attacks and implement mitigation techniques.
+(U) Configure and troubleshoot advanced technologies to support service provider networks, such as service provisioning, MPLS, VPNs, service level agreements and advanced security.
+(U) Configure and troubleshoot storage area networks over variety of interfaces.
+(U) Configure complex end-to-end telephony network, troubleshooting and resolving VoIP-related problems.
+(U) Act as the central Point of Contact for the Planning, designing, implementing, operating and troubleshooting of an organization’s wireless network and mobility infrastructure.
+(U) Qualifications
+(U) Twelve (12) years of experience in programs and contracts of similar scope, type, and complexity is required.
+(U) Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a bachelor's degree.
+(U) Certifications
+(U) IAT level II baseline certification as defined by DoD 8570.01-M is required.(U) Current CCIE Certification is required.
+(U) Domain Area(s) Specialized Requirements:
+(U) Business: Translating business requirements into network specifications
+(U) Computer Network Operations: Network Tools; Whats Up Gold and Netflow
+(U) SIGINT: SIGINT Tools, Common View/Max View, Triton, and TUMMS
+</description>
+    <location/>
+    <applyUrl/>
+    <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
+    <laborCategory>Interconnectivity Engineer Skill Level 3</laborCategory>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience>Twelve</yearsExperience>
   </job>
 </jobs>
