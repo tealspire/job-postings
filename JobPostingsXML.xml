@@ -26,7 +26,6 @@ Polygraph: FS</clearanceLevel>
     <title>Linux System Administrator</title>
     <description>Desired Skills: Familiarity with Big Fix
 (U)Familiarity with Ansible
-(U)Qualifications:
 (U)A bachelor’s degree and ten (10) years of experience as a system administrator on programs of similar scope and complexity is required. In lieu of a bachelor’s degree fifteen (15) years of experience required.
 (U)In depth Linux experience.
 (U)Familiarity with PowerShell and Bash scripting languages.
@@ -116,10 +115,7 @@ Polygraph: FS</clearanceLevel>
 (U) Coordinate with the system engineering and dataflow efforts to ensure proper mission operations with minimal down time.
 (U) Facilitate the implementation of high-speed, scalable, fault-tolerant network topologies as applicable to WAN and LAN design.
 (U) Qualifications:  Twelve (12) years’ experience in programs and contracts of similar scope, type, and complexity is required. Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a Bachelor’s degree. Certifications: An IAT level III baseline certification as defined by DoD 8570.01-M is required. An IAT II will be accepted (Security + CE, GSEC, or SSCP) if the candidate obtains an IAT level III (CISA, CISSP, CASP, GCIH, or GCED) within 1 year of contract award and provide expected date for completion. Replacement candidates must meet the IAT level III baseline certification requirement by the date of assignment to contract. A CCNP certification or higher. ITIL ® V3 Foundations.
-(U) Communications Network Engineer Skill Level 3 Labor Category
-(U) Communications Network Engineer
 (U) Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration. Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
-(U) The Level 3 Communications Network Engineer shall possess the following capabilities:
 (U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.
 (U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.
 (U) Coordinates Telecommunications services to support installations and maintenance.
@@ -127,7 +123,7 @@ Polygraph: FS</clearanceLevel>
 (U) Qualifications:  Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required. A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.</description>
     <location/>
     <applyUrl/>
-    <clearanceLevel>(U) Twelve</clearanceLevel>
+    <clearanceLevel>N/A</clearanceLevel>
     <laborCategory>
 Connectivity Engineer – Line 3 Function 1</laborCategory>
     <salaryRange/>
@@ -161,14 +157,10 @@ Connectivity Engineer – Line 3 Function 1</laborCategory>
 (U) Lead large efforts of dynamic requirements and scale.
 (U) Work with System engineers, customers, and cross-organizational teams to refine requirements.
 (U) Coordinate with appropriate dataflow organizations and end-customer recipients to mitigate potential adverse impacts on system-wide dataflow.
-(U) Qualifications
 (U) Seven (7) years' experience in programs and contracts of similar scope, type, and complexity is required.(U)MAJOR:
-(U)UNIVERSITY:
 (U) Bachelor's degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a bachelor’s degree.
-(U) Certifications
 (U) An IAT level II baseline certification as defined by DoD 8570.01-M is required. Security + CE, GSEC, or SSCP.(U)CERTIFICATION:(U)DATE:
-(U) A CCNP certification or higher; a CCNA and 2 additional year’s network experience may be substituted and candidates must show proof of actively working to obtain CCNP.(U)CERTIFICATION:(U)DATE:
-(U) ITIL ® V3 Foundations.(U)CERTIFICATION:(U)DATE:
+(U) A CCNP certification or higher; a CCNA and 2 additional year’s network experience may be substituted and candidates must show proof of actively working to obtain CCNP.
 (U) Domain Area(s) Specialized Requirements: Unless otherwise specified in the description field Five (5) years of demonstrated experience is required for the domain items described below:
 (U) Computer Network Operations: Seven (7) years' experience in Networking (WAN/CAN/DCN/NETSEC).
 (U) Computer Network Operations: Three (3) years' experience in operations and maintenance of NSANet or another IC Community secure WAN.
@@ -194,10 +186,9 @@ Connectivity Engineer – Line 3 Function 1</laborCategory>
     <description> Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration.
 (U) Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. 
 (U) Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
-(U) The Level 3 Communications Network Engineer shall possess the following capabilities:
-(U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.(U)(U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.(U)(U) Coordinates Telecommunications services to support installations and maintenance.  Resolves problems to include performance and configuration.
-(U) Qualifications
-(U) Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required.(U)(U)(U) A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.
+(U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.
+(U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies. Coordinates Telecommunications services to support installations and maintenance.  Resolves problems to include performance and configuration.
+(U) Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required. A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.
 </description>
     <location/>
     <applyUrl/>
@@ -211,9 +202,7 @@ Connectivity Engineer – Line 3 Function 1</laborCategory>
     <partnerJobId/>
     <company/>
     <title>Interconnectivity Engineer Skill Level 3</title>
-    <description> Serves as the Communications/Network Engineering Team Leader, including overall leadership responsibility for Communications/Networks Engineers. Resolves complex network problems, operate network analyzers, WAN test equipment and network simulators. Supports and provides site personnel training on network fundamentals and specific network hardware. Performs network services from network design through implementation, maintenance, and upgrading of existing networks. Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends procurement of and/or modifications to network components. Possess advanced written and verbal communications skills. Serves as the single point of contact for all complex Networking requirements. Assists other project members with analysis and evaluation and with the preparation of recommendations for system improvements, optimization, development, and/or maintenance efforts in the following specialties: information systems architecture; networking; telecommunications; automation; communications protocols.
-(U) The Interconnectivity Engineer Skill Level 3 shall possess the following capabilities
-(U) Establishes system information requirements using analysis of the information engineer(s) in the development of enterprise-wide or large-scale information systems.
+    <description>(U) Establishes system information requirements using analysis of the information engineer(s) in the development of enterprise-wide or large-scale information systems.
 (U) Designs architecture to include the software, hardware, and communications to support the total requirements as well as provide for present and future cross-functional requirements and interfaces.
 (U) Ensures these systems are compatible and in compliance with the standards for agency IT architectures, and profiles of standards as they apply to the implementation and specific to the solution for the platform, integration with other systems, and the external interfaces.
 (U) Ensures that the common operating environment is compliant with industry Enterprise standards and best practices.
@@ -227,11 +216,10 @@ Connectivity Engineer – Line 3 Function 1</laborCategory>
 (U) Configure and troubleshoot storage area networks over variety of interfaces.
 (U) Configure complex end-to-end telephony network, troubleshooting and resolving VoIP-related problems.
 (U) Act as the central Point of Contact for the Planning, designing, implementing, operating and troubleshooting of an organization’s wireless network and mobility infrastructure.
-(U) Qualifications
 (U) Twelve (12) years of experience in programs and contracts of similar scope, type, and complexity is required.
 (U) Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a bachelor's degree.
-(U) Certifications
-(U) IAT level II baseline certification as defined by DoD 8570.01-M is required.(U) Current CCIE Certification is required.
+(U) IAT level II baseline certification as defined by DoD 8570.01-M is required.
+(U) Current CCIE Certification is required.
 (U) Domain Area(s) Specialized Requirements:
 (U) Business: Translating business requirements into network specifications
 (U) Computer Network Operations: Network Tools; Whats Up Gold and Netflow
