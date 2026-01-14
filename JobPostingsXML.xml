@@ -4,7 +4,7 @@
     <partnerJobId/>
     <company/>
     <title>System Administrator - Tier 2</title>
-    <description>Provides technical support and troubleshooting to network, desktop, and/or systems hardware and software
+    <description>(U) Provides technical support and troubleshooting to network, desktop, and/or systems hardware and software
 (U) May coach and provide guidance to less-experienced professionals
 (U) Applies basic diagnostic techniques to identify problems, investigate causes, and recommend solutions
 Mandatory Skills: Hardware
@@ -24,7 +24,7 @@ Polygraph: FS</clearanceLevel>
     <partnerJobId>0311-15</partnerJobId>
     <company/>
     <title>Linux System Administrator</title>
-    <description>Desired Skills: Familiarity with Big Fix
+    <description>(U) Desired Skills: Familiarity with Big Fix
 (U)Familiarity with Ansible
 (U)A bachelor’s degree and ten (10) years of experience as a system administrator on programs of similar scope and complexity is required. In lieu of a bachelor’s degree fifteen (15) years of experience required.
 (U)In depth Linux experience.
@@ -45,7 +45,7 @@ Polygraph: FS</clearanceLevel>
     <partnerJobId/>
     <company/>
     <title>Splunk Engineer</title>
-    <description>Mandatory: Experience managing user authentication within Splunk including RBAC/ABAC
+    <description>(U) Mandatory: Experience managing user authentication within Splunk including RBAC/ABAC
 (U)Experience reviewing network, host, and firewall security logs
 (U)Strong organizational, communication, and collaboration skills
 (U)Desired: Experience with Splunk Machine Learning Toolkit (MLTK)
@@ -67,7 +67,7 @@ Polygraph: FS</clearanceLevel>
     <partnerJobId/>
     <company/>
     <title>Tools Software Engineer</title>
-    <description>Mandatory: Experience in Python, R, JavaScript, or Perl programming; or UNIX scripting
+    <description> (U) Mandatory: Experience in Python, R, JavaScript, or Perl programming; or UNIX scripting
 (U)Experience integrating with the OpenText Enterprise Management tools suite
 (U)Must be a self-starter with strong attention to detail
 (U)Proficient in Linux/UNIX commands
@@ -134,7 +134,7 @@ Connectivity Engineer – Line 3 Function 1</laborCategory>
     <partnerJobId/>
     <company/>
     <title>Connectivity Engineer - Line 2 Function 2 Skill Level 3</title>
-    <description> Performs network design implementation, maintenance, and sustainment of existing networks; Implements and sustains Wide Area Networks (WANs), Campus Area Networks (CANs), Data Center Networks/Interfaces (DCN/DCI), Network Security (NETSEC) and Tactical/Deployable Networking Systems.
+    <description> (U) Performs network design implementation, maintenance, and sustainment of existing networks; Implements and sustains Wide Area Networks (WANs), Campus Area Networks (CANs), Data Center Networks/Interfaces (DCN/DCI), Network Security (NETSEC) and Tactical/Deployable Networking Systems.
 (U) Analyzes design, specifications, and related documents.
 (U) Implements communication system requirements to support the distributed functionality of a networked enterprise environment.
 (U) Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends modification of network configurations.
@@ -183,7 +183,7 @@ Connectivity Engineer – Line 3 Function 1</laborCategory>
     <partnerJobId/>
     <company/>
     <title>Communications Network Engineer Skill Level 3</title>
-    <description> Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration.
+    <description> (U) Monitors, analyzes, troubleshoots, and evaluates hardware, software and other network related problems. Manages the performance and configuration of the global networks and systems. Performs general LAN/CAN/WAN administration.
 (U) Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. 
 (U) Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
 (U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.
