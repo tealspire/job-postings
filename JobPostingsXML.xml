@@ -29,8 +29,8 @@ Polygraph: FS</clearanceLevel>
   <job>
     <partnerJobId/>
     <company/>
-    <title>OneDrive Storage Engineer</title>
-    <description>Mandatory: Ability to work independently and collaboratively in a team-oriented environment
+    <title>OneDrive Storage Engineer (M365)</title>
+    <description>Ability to work independently and collaboratively in a team-oriented environment
 (U)Excellent communication and interpersonal skills, with a customer-focused approach to service delivery
 (U)Experience with data replication, backup, and disaster recovery strategies in both cloud and on- premises environments
 (U)Expertise in migrating data to Microsoft 365 (M365) and OneDrive, with a solid understanding of cloud migration methodologies
@@ -40,8 +40,8 @@ Polygraph: FS</clearanceLevel>
 </description>
     <location>Annapolis Junction, MD</location>
     <applyUrl/>
-    <clearanceLevel>TS/SCI 
-    Polygraph: FS</clearanceLevel>
+    <clearanceLevel>TS/SCI
+Polygraph: FS</clearanceLevel>
     <laborCategory/>
     <salaryRange/>
     <degreeRequirements/>
@@ -50,11 +50,40 @@ Polygraph: FS</clearanceLevel>
   <job>
     <partnerJobId/>
     <company/>
-    <title>Remote Operations - Tier 2</title>
-    <description>Mandatory: 
-(U)Hardware
+    <title>Tier 2</title>
+    <description>Mandatory: Hardware
 (U)Remote Assistance
 (U)Remote Desktop
+</description>
+    <location>Annapolis Junction, MD</location>
+    <applyUrl/>
+    <clearanceLevel>TS/SCI
+Polygraph: FS</clearanceLevel>
+    <laborCategory/>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience/>
+  </job>
+  <job>
+    <partnerJobId/>
+    <company/>
+    <title>EMC/GEM</title>
+    <description>Mandatory: Creative Problem Solving
+</description>
+    <location>San Antonio, TX</location>
+    <applyUrl/>
+    <clearanceLevel>TS/SCI
+Polygraph: FS</clearanceLevel>
+    <laborCategory/>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience/>
+  </job>
+  <job>
+    <partnerJobId/>
+    <company/>
+    <title>EMC/GEM</title>
+    <description>Mandatory: Creative Problem Solving
 </description>
     <location>Annapolis Junction, MD</location>
     <applyUrl/>
@@ -70,10 +99,8 @@ Polygraph: FS</clearanceLevel>
     <company/>
     <title>Product Convergence Architect</title>
     <description>Experience supporting enterprise rollouts and managing stakeholder expectations.
-(U)Previous experience consolidating teams or systems across enterprise programs.
 (U)Experience orchestrating vendor engagements and evaluating vendor technical roadmaps.
 (U)Understanding of document/content management solutions (Feith, etc.) even if not the focus of the role.
-(U)Qualifications
 (U)TS/SCI with Polygraph
 (U)Twelve (12) years of experience in software development/engineering
 (U)Bachelor’s degree from an accredited college or university in Computer Science or related discipline. Four (4) years of additional software development experience may be substituted for a bachelor’s degree.
@@ -83,17 +110,15 @@ Polygraph: FS</clearanceLevel>
 (U)Excellent communication and interpersonal skills to engage with customers, understand their needs, and provide timely and effective support, ensuring high levels of satisfaction.
 (U)General understanding of Microsoft environments and enterprise collaboration tools
 (U)Experience with FEITH Records
-(U)Management System or other COTS
 (U)Development or scripting experience to support system configuration or automation tasks.
-(U)Technical awareness and problem-solving ability related to system integration and configuration.
+(U)Technical awareness and problem- solving ability related to system integration and configuration.
 (U)Strong communication and interpersonal skills, with the ability to onboard and train users on a new system.
 (U)Experience supporting or working with commercial off-the-shelf (COTS) products or integrations.
 (U)Ability to work independently while collaborating with developers and product support teams.
-(U)Must be able to work during core hours of Monday-Friday 10am-2pm. Exceptions will be considered on a case-by-case basis.
-</description>
+(U)Must be able to work during core hours of Monday-Friday 10am-2pm. Exceptions will be considered on a case-by-case basis.</description>
     <location/>
     <applyUrl/>
-    <clearanceLevel>TS/SCI with Polygraph </clearanceLevel>
+    <clearanceLevel>TS/SCI with Polygraph</clearanceLevel>
     <laborCategory>Application Developer Skill Level 4</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
@@ -106,10 +131,8 @@ Polygraph: FS</clearanceLevel>
     <description>Familiarity with AWS RDS
 (U)Familiarity with database administrative tasks such as backups, database migrations and cloning and restoring (preferably using AWS RDS)
 (U)Familiarity with SQL Developer session/sql monitoring tools
-(U)Experience with the Atlassian Tool Suite
 (U)Experience working with Git for configuration management
 (U)Experience working with the JSON format
-(U)Qualifications
 (U)TS/SCI with Polygraph
 (U)A bachelor’s degree and five (5) years' experience as a Database Engineer in programs and contracts of similar scope, type and complexity is required. Ten (10) years of experience required In lieu of bachelor’s degree.
 (U)Experience designing, building, and maintaining a database from simple requirements
@@ -122,7 +145,7 @@ Polygraph: FS</clearanceLevel>
 </description>
     <location/>
     <applyUrl/>
-    <clearanceLevel>TS/SCI with Polygraph </clearanceLevel>
+    <clearanceLevel>TS/SCI with Polygraph</clearanceLevel>
     <laborCategory>Database Engineer (DE) Skill Level 2</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
@@ -137,14 +160,12 @@ Polygraph: FS</clearanceLevel>
 (U)Familiarity with integrations, REST APIs, or middleware solutions
 (U)Experience in federal, DoD, or other regulated enterprise environments
 (U)Understanding of ITIL, change management, and release management processes
-(U)RedHat OpenShift Container Platform (ROSA, OCP, or self- managed)
 (U)Experience with Linux Administration
 (U)Integragtion knowledge (Rest API's, MIF, OSLC, LDAP/SSO integration)
 (U)Experience with Docker and Kubernetes
 (U)Experience with Oracle 19.3
 (U)Experience with S3 storage
 (U)Experience with EC2 instances
-(U)Qualifications
 (U)Senior-level experience supporting or developing COTS enterprise applications (e.g., ERP, EAM, CRM, asset management platforms)
 (U)TS/SCI with FS poly
 (U)Strong background in application configuration, customization, or development within commercial software environments
@@ -152,7 +173,6 @@ Polygraph: FS</clearanceLevel>
 (U)Four (4) years of additional SWE experience on projects with similar software processes may be substituted for a bachelor’s degree.
 (U)An industry recognized professional certification, as defined in the TTOs, may substitute as one (1) year experience. A Master's Degree in Computer Science, System Engineering or related field may substitute for two (2) years' experience.
 (U)Experience working with Java-based or web-based enterprise applications
-(U)Proficiency with relational databases and SQL
 (U)Experience supporting applications across the full lifecycle (development, test, production)
 (U)Ability to lead technical discussions, make architectural recommendations, and guide solution decisions
 (U)Strong analytical, troubleshooting, and problem-solving skills
@@ -178,8 +198,7 @@ Polygraph: FS</clearanceLevel>
 (U)Proficiency in scripting and automation tools.
 (U)Strong troubleshooting and analytical skills to identify root causes of integration issues.
 (U)Ability to create or refine process documentation for repeatable success.
-(U)Experience collaborating with cloud or infrastructure teams.
-(U)Qualifications
+(U)Experience collaborating with cloud or infrastructure teams. 
 (U)TS/SCI with Polygraph
 (U)A bachelor’s degree in a technical discipline and six (6) years' experience as an SIE in programs and contracts of similar scope, type, and complexity is required. Ten (10) years’ SIE experience may be substituted for a bachelor’s degree
 (U)Experience with agile development methodologies
@@ -206,7 +225,6 @@ Polygraph: FS</clearanceLevel>
     <description>Experience managing systems hosted in virtual environments such as AWS
 (U)Experience with Agile development methodologies
 (U)Familiarity with Microsoft IIS, server administration, and SQL Server Management Studio
-(U)Qualifications
 (U)TS/SCI with Polygraph
 (U)A bachelor's degree and twelve (12) years of experience in software development/engineering.
 (U)Sixteen (16) years of software development experience may be substituted in lieu of a degree.
@@ -218,7 +236,7 @@ Polygraph: FS</clearanceLevel>
 </description>
     <location/>
     <applyUrl/>
-    <clearanceLevel>TS/SCI with Polygraph </clearanceLevel>
+    <clearanceLevel>TS/SCI with Polygraph</clearanceLevel>
     <laborCategory>Sustainment Software Engineer Skill Level 3</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
@@ -238,19 +256,14 @@ Polygraph: FS</clearanceLevel>
 (U)Experience with Selenium
 (U)Experience with Ansible or Terraform
 (U)System administration background
-(U)Qualifications
 (U)TS/SCI with Polygraph
 (U)Twelve (12) years of experience in software development/engineering Bachelor’s degree from an accredited college or university in Computer Science or related discipline. Four (4) years of additional software development experience may be substituted for a bachelor’s degree.
-(U)Experience with Elastic Stack (Elasticsearch,
-(U)Logstash, and Kibana), including Elastic Application
+(U)Experience with Elastic Stack (Elasticsearch, Logstash, and Kibana), including Elastic Application
 (U)Performance Monitoring (APM)
-(U)Installing, updating, and/or maintaining multiple
-(U)Elastic Stack environments
+(U)Installing, updating, and/or maintaining multiple Elastic Stack environments
 (U)Creating and modifying Logstash pipelines
 (U)Creating and modifying Kibana visualizations
-(U)Instrumenting systems with Elastic Agent and Elastic
-(U)APM Agent
-(U)Experience with OpenTelemetry (OTEL) and OpenTelemetry Protocol (OTLP)
+(U)Instrumenting systems with Elastic Agent and Elastic APM Agent
 (U)Experience with Python and/or Vega programming
 (U)Familiarity with web application technologies (e.g., html, JavaScript, web servers, and application servers)
 (U)Proficient in UNIX commands
@@ -258,8 +271,82 @@ Polygraph: FS</clearanceLevel>
 </description>
     <location/>
     <applyUrl/>
-    <clearanceLevel>TS/SCI with Polygraph </clearanceLevel>
+    <clearanceLevel>TS/SCI with Polygraph
+Twelve </clearanceLevel>
     <laborCategory>COTS Technology Expert Skill Level 3</laborCategory>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience/>
+  </job>
+  <job>
+    <partnerJobId>0368-16</partnerJobId>
+    <company/>
+    <title>Senior SQL Database Administrator</title>
+    <description>Experience with PowerShell scripting language
+(U)Experience in SharePoint migrations
+(U)Ability to clearly communicate ambiguous or highly complex concepts to all audiences
+(U)Proficiency in managing SQL Server Databases
+</description>
+    <location/>
+    <applyUrl/>
+    <clearanceLevel>Active TS/SCI with Polygraph</clearanceLevel>
+    <laborCategory>Database Administrator (DBA) Skill Level 2</laborCategory>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience>10-14</yearsExperience>
+  </job>
+  <job>
+    <partnerJobId>0373-16</partnerJobId>
+    <company/>
+    <title>Senior System Administrator</title>
+    <description>Strong background as a hybrid Linux/Windows System Administrator.
+(U)Hands-on experience with AWS cloud services (Lambda, CloudFormation, EC2, IAM, etc.).
+(U)Proficiency with scripting and automation tools: Ansible, Terraform, PowerShell, Bash, Python (preferred).
+(U)Experience administering Windows environments, including Active Directory and
+(U)Solid understanding of cloud security practices, patch management, and compliance reporting.
+(U)Strong troubleshooting and problem-solving skills in both Linux and Windows environments.
+(U)Ability to work independently and collaboratively in a fast-paced, mission-focused team environment.
+(U)Fifteen (15) years of experience as an SA in programs and contracts of similar scope, type, and complexity is required.
+(U)Bachelor’s degree in a technical discipline from an accredited college or university is required.
+(U)Five (5) years of additional SA experience may be substituted for a bachelor's degree.
+(U)DoD 8570 compliance with Information
+(U)Assurance Technical (IAT) Level I is required as specified in the individual TTOs
+(U)Proficiency with maintaining various versions of Windows Server including hardening, patching, upgrading and disk management.
+(U)Linux server experience including patching and software maintenance.
+(U)Experience with IAVA patching and reporting
+(U)Experience in maintaining and upgrades various types of installed software
+(U)Skilled in problem solving and troubleshooting of computer systems and software
+</description>
+    <location/>
+    <applyUrl/>
+    <clearanceLevel>Fifteen</clearanceLevel>
+    <laborCategory>System Administrator (SA) Skill Level 3</laborCategory>
+    <salaryRange/>
+    <degreeRequirements/>
+    <yearsExperience>Fifteen </yearsExperience>
+  </job>
+  <job>
+    <partnerJobId>0385-10</partnerJobId>
+    <company/>
+    <title>Full Stack Software Developer</title>
+    <description>Experience working with the AWS Platform
+(U)Experience with GitLab
+(U)Experience with GitLab runners for continuous integration
+(U)Experience with Agile methodologies
+(U)Experience with automated integration and unit testing scripts
+(U)Experience with Docker
+(U)Experience with LLM
+(U)Working knowledge of accessibility standards
+(U)TS/SCI with Full Scope Polygraph
+(U)A bachelor's degree in a technical discipline and six
+(U)(6) years of experience in software development/engineering. Ten (10) years of experience in software development/engineering may be substituted in lieu of a degree.
+(U)Experience with JavaScript frameworks
+(U)Experience creating and consuming RESTful endpoints
+</description>
+    <location/>
+    <applyUrl/>
+    <clearanceLevel>TS/SCI with Full Scope Polygraph</clearanceLevel>
+    <laborCategory>Sustainment Software Engineer Skill Level 2</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
     <yearsExperience/>
@@ -267,11 +354,9 @@ Polygraph: FS</clearanceLevel>
   <job>
     <partnerJobId/>
     <company/>
-    <title>
-Connectivity Engineer</title>
+    <title>Connectivity Engineer – Line 3 Function 1 </title>
     <description>
 (U) Perform engineering services to enable all aspects of network management from network design through implementation, maintenance, sustainment of existing networks, and identification/correction of complex internetwork issues. Implements and sustains Wide area networks (WANs), Campus Area Networks (CANs), Data Center Networks/Interfaces (DCN/DCI), Network Security (NETSEC) and Tactical/Deployable Networking Systems. Analyzes design, specifications, and related documents. Implements communication system requirements to support the distributed functionality of a networked enterprise environment. Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends modification of network configurations.
-(U)The Level 3 Connectivity Engineer – Line 3 Function 1 shall possess the following capabilities:
 (U) Resolve complex network problems, and operate network analyzers, WAN test equipment and network simulators.
 (U) Perform site surveys, system installations, configuration management, maintenance, modernization, and sustainment of a global Enterprise Network.
 (U) Perform Connectivity engineering services to pre and post deployment tests.
@@ -290,14 +375,14 @@ Connectivity Engineer</title>
 (U) Configure and optimize the network to connect various front-end and back-end components
 (U) Coordinate with the system engineering and dataflow efforts to ensure proper mission operations with minimal down time.
 (U) Facilitate the implementation of high-speed, scalable, fault-tolerant network topologies as applicable to WAN and LAN design.
-(U)Qualifications:  Twelve (12) years’ experience in programs and contracts of similar scope, type, and complexity is required. Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a Bachelor’s degree. Certifications: An IAT level III baseline certification as defined by DoD 8570.01-M is required. An IAT II will be accepted (Security + CE, GSEC, or SSCP) if the candidate obtains an IAT level III (CISA, CISSP, CASP, GCIH, or GCED) within 1 year of contract award and provide expected date for completion. Replacement candidates must meet the IAT level III baseline certification requirement by the date of assignment to contract. A CCNP certification or higher. ITIL ® V3 Foundations.</description>
+(U) Qualifications:  Twelve (12) years’ experience in programs and contracts of similar scope, type, and complexity is required. Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a Bachelor’s degree. Certifications: An IAT level III baseline certification as defined by DoD 8570.01-M is required. An IAT II will be accepted (Security + CE, GSEC, or SSCP) if the candidate obtains an IAT level III (CISA, CISSP, CASP, GCIH, or GCED) within 1 year of contract award and provide expected date for completion. Replacement candidates must meet the IAT level III baseline certification requirement by the date of assignment to contract. A CCNP certification or higher. ITIL ® V3 Foundations.</description>
     <location/>
     <applyUrl/>
-    <clearanceLevel> N/A </clearanceLevel>
+    <clearanceLevel>Twelve</clearanceLevel>
     <laborCategory></laborCategory>
     <salaryRange/>
     <degreeRequirements/>
-    <yearsExperience>Twelve </yearsExperience>
+    <yearsExperience> Twelve </yearsExperience>
   </job>
   <job>
     <partnerJobId/>
@@ -307,14 +392,14 @@ Connectivity Engineer</title>
 (U) Schedules conversions and cutover. Coordinates with all responsible users and sites to resolve network or system incidents. 
 (U) Responsible for monitoring, tracking and evaluating global Information Technology Infrastructure (ITI) incidents.
 (U) The Level 3 Communications Network Engineer shall possess the following capabilities:
-(U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.(U)(U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.(U)(U) Coordinates Telecommunications services to support installations and maintenance.  Resolves problems to include performance and configuration.
-(U) Qualifications: Ten (10) years’ experience as an Engineer, applying fundamental skills and concepts using established procedures and standard practices to work problems on contracts of similar scope, type, and complexity is required.(U)(U)(U) A Master’s Degree in a field related to engineering from an accredited college or university is required. In lieu of a Master’s degree, a Bachelor’s degree and an additional four (4) years of experience is required.
+(U) Translates business requirements into telecommunications (e.g., LAN, CAN, WAN, Voice and Video) requirements, designs and orders.
+(U) Perform in-depth engineering analysis of telecommunications alternatives for Government agencies.
+(U) Coordinates Telecommunications services to support installations and maintenance.  Resolves problems to include performance and configuration.
 </description>
     <location/>
     <applyUrl/>
     <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
-    <laborCategory>Communications Network Engineer Skill Level 3
-(U)</laborCategory>
+    <laborCategory>Communications Network Engineer Skill Level 3</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
     <yearsExperience> Ten </yearsExperience>
@@ -323,8 +408,9 @@ Connectivity Engineer</title>
     <partnerJobId/>
     <company/>
     <title>Interconnectivity Engineer Skill Level 3
-(U)</title>
+</title>
     <description> Serves as the Communications/Network Engineering Team Leader, including overall leadership responsibility for Communications/Networks Engineers. Resolves complex network problems, operate network analyzers, WAN test equipment and network simulators. Supports and provides site personnel training on network fundamentals and specific network hardware. Performs network services from network design through implementation, maintenance, and upgrading of existing networks. Analyzes network characteristics (e.g. traffic connect time, transmission speeds, packet sizes and throughput), troubleshoots problems and recommends procurement of and/or modifications to network components. Possess advanced written and verbal communications skills. Serves as the single point of contact for all complex Networking requirements. Assists other project members with analysis and evaluation and with the preparation of recommendations for system improvements, optimization, development, and/or maintenance efforts in the following specialties: information systems architecture; networking; telecommunications; automation; communications protocols.
+(U) The Interconnectivity Engineer Skill Level 3 shall possess the following capabilities
 (U) Establishes system information requirements using analysis of the information engineer(s) in the development of enterprise-wide or large-scale information systems.
 (U) Designs architecture to include the software, hardware, and communications to support the total requirements as well as provide for present and future cross-functional requirements and interfaces.
 (U) Ensures these systems are compatible and in compliance with the standards for agency IT architectures, and profiles of standards as they apply to the implementation and specific to the solution for the platform, integration with other systems, and the external interfaces.
@@ -338,37 +424,13 @@ Connectivity Engineer</title>
 (U) Configure and troubleshoot advanced technologies to support service provider networks, such as service provisioning, MPLS, VPNs, service level agreements and advanced security.
 (U) Configure and troubleshoot storage area networks over variety of interfaces.
 (U) Configure complex end-to-end telephony network, troubleshooting and resolving VoIP-related problems.
-(U) Act as the central Point of Contact for the Planning, designing, implementing, operating and troubleshooting of an organization’s wireless network and mobility infrastructure.
-(U) Qualifications
-(U) Twelve (12) years of experience in programs and contracts of similar scope, type, and complexity is required.
-(U) Bachelor’s degree in engineering from an accredited college or university is required. Four (4) years of additional network engineering experience may be substituted for a bachelor's degree.
-(U) Certifications
-(U) IAT level II baseline certification as defined by DoD 8570.01-M is required.(U) Current CCIE Certification is required.
-(U) Domain Area(s) Specialized Requirements:
-(U) Business: Translating business requirements into network specifications
-(U) Computer Network Operations: Network Tools; Whats Up Gold and Netflow
-(U) SIGINT: SIGINT Tools, Common View/Max View, Triton, and TUMMS
-(U) Professional Experience</description>
+(U) Act as the central Point of Contact for the Planning, designing, implementing, operating and troubleshooting of an organization’s wireless network and mobility infrastructure.</description>
     <location/>
     <applyUrl/>
     <clearanceLevel>TS/SCI w/FS Polygraph</clearanceLevel>
-    <laborCategory>Interconnectivity Engineer Skill Level 3
-</laborCategory>
+    <laborCategory>Interconnectivity Engineer Skill Level 3</laborCategory>
     <salaryRange/>
     <degreeRequirements/>
-    <yearsExperience> Twelve </yearsExperience>
-  </job>
-  <job>
-    <partnerJobId/>
-    <company/>
-    <title/>
-    <description/>
-    <location/>
-    <applyUrl/>
-    <clearanceLevel/>
-    <laborCategory/>
-    <salaryRange/>
-    <degreeRequirements/>
-    <yearsExperience/>
+    <yearsExperience>Twelve </yearsExperience>
   </job>
 </jobs>
